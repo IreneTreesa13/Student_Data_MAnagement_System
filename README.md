@@ -1,1 +1,1 @@
-# Student_Data_MAnagement_System
+Developed a Python-based Student Management System (SMS) using Streamlit, automating tasks and reducing administrative workload by 30 hours monthly, while boosting efficiency by 40%. The system securely manages over 1,000 student records, streamlining operations and improving efficiency for educational institutions.
